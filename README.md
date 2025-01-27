@@ -1,4 +1,4 @@
-# Dynamic-Learning Path Website 
+# Dynamic-Learning Path Generator
 
 Welcome to the Dynamic Learning Path Generator! This project is designed to provide users with a personalized learning experience by recommending course modules based on a short career assessment. The application incorporates features to help users track their progress and stay engaged through interactive elements.
 
